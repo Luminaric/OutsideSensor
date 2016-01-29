@@ -4,7 +4,7 @@ readings. It then uses the ESP8266 to transmit those readings
 to the local MySQL database and to ThingSpeak. A reading is
 performed every 5 minuts using Timer.
 
-  PGM:      ESP03
+  PGM:      OutsideSensor
   Platform: ESP8266
   Ver:      1.1
   Date:     2015-11-03
